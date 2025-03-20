@@ -9,8 +9,8 @@ public class sample1 {
 		System.out.println("git commit -m 'commit message' staging area to local repo");
 		
 		System.out.println("git push -u orgin master - git to github");
-		
-		
+
+		System.out.println("java and selenium");
 		
 		System.out.println("Git Tutorial");
 
